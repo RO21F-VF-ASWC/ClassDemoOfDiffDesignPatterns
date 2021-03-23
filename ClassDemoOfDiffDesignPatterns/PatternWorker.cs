@@ -34,12 +34,12 @@ namespace ClassDemoOfDiffDesignPatterns
             //DemoFacade();
             //DemoProxy();
             //DemoDecorator();
-            DemoComposite();
+            //DemoComposite();
 
 
             //DemoObserver();
             //DemoTemplate();
-            //DemoStrategy();
+            DemoStrategy();
             //DemoState();
             
         }
